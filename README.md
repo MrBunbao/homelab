@@ -7,7 +7,7 @@ Welcome to my Homelab repository! This project is designed to provide an overvie
 [![Issues](https://img.shields.io/github/issues/MrBunbao/homelab?style=for-the-badge)](https://github.com/MrBunbao/homelab/issues)
 [![License](https://img.shields.io/github/license/MrBunbao/homelab?style=for-the-badge)](https://github.com/MrBunbao/homelab/blob/main/LICENSE)
 
-## Features
+## 💻 Features
 
 - 📂 Organized directory structure for configs, docs, infra, and services  
 - 🐳 Docker Compose templates for common self‑hosted apps (Nextcloud, Jellyfin, Rustdesk, Wiki.js)  
@@ -18,11 +18,11 @@ Welcome to my Homelab repository! This project is designed to provide an overvie
 
 This repository organizes documentation, configs, and service stacks.
 
-## Overview
+## 🔭 Overview
 
-This repository acts as a central hub for documenting my homelab setup, including hardware configurations, software installations, network diagrams, and maintenance procedures. The goal is to create a living document that evolves as the homelab does. 📚
+This repository acts as a central hub for documenting my homelab setup, including hardware configurations, software installations, network diagrams, and maintenance procedures. The goal is to create a living document that evolves as the homelab does. 
 
-## Documentation
+## 📚 Documentation 
 
 The detailed documentation is hosted on my Wiki.js site. Dive into the Wiki for comprehensive guides and resources:
 
@@ -31,9 +31,5 @@ The detailed documentation is hosted on my Wiki.js site. Dive into the Wiki for 
 - **Usage Tips:** Discover best practices, troubleshooting tips, and performance optimization techniques. 🚀
 - **Change Log:** Stay updated with records of updates, improvements, and significant changes to the homelab setup. 📝
 
-[Visit the Documentation Site (TODO](https://your-wiki-url.com) 🌐
-
-## Repository Structure
-
-Here's a quick overview of the repository structure, designed to be intuitive and easy to navigate:
+🌐 [Visit the Documentation Site (TODO](https://your-wiki-url.com)
 
