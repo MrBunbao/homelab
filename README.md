@@ -20,9 +20,9 @@ This repository organizes documentation, configs, and service stacks.
 
 ## 🔭 Overview
 
-This repository acts as a central hub for documenting my homelab setup, including hardware configurations, software installations, network diagrams, and maintenance procedures. The goal is to create a living document that evolves as the homelab does. 
+This repository acts as a central hub for documenting my homelab setup, including hardware configurations, software installations, network diagrams, and maintenance procedures. The goal is to create a living document that evolves as the homelab does.
 
-## 📚 Documentation 
+## 📚 Documentation
 
 The detailed documentation is hosted on my Wiki.js site. Dive into the Wiki for comprehensive guides and resources:
 
@@ -32,4 +32,3 @@ The detailed documentation is hosted on my Wiki.js site. Dive into the Wiki for 
 - **Change Log:** Stay updated with records of updates, improvements, and significant changes to the homelab setup. 📝
 
 🌐 [Visit the Documentation Site (TODO](https://your-wiki-url.com)
-
