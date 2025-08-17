@@ -18,6 +18,3 @@ media/templates/
 
 # keep unredacted local copies only
 .private/
-
-# keep unredacted local copies only
-.private/

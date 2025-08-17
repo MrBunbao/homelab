@@ -41,4 +41,3 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) style wi
 ---
 
 WAN test: XXX.XXX.XXX.XXX
-Fake token: [REDACTED_TOKEN]
