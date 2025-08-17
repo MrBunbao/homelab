@@ -40,4 +40,5 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) style wi
 
 ---
 
-should this be here? Updated to: 73.65.173.192 
+WAN test: XXX.XXX.XXX.XXX
+Fake token: [REDACTED_TOKEN]
