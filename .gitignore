@@ -15,3 +15,9 @@
 media/backups/
 media/iso/
 media/templates/
+
+# keep unredacted local copies only
+.private/
+
+# keep unredacted local copies only
+.private/
