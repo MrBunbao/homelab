@@ -9,7 +9,7 @@ Welcome to my Homelab repository! This project is designed to provide an overvie
 
 ## 💻 Features
 
-- 📂 Organized directory structure for configs, docs, infra, and services  
+- 📂 Organized **directory** structure for configs, docs, infra, and services  
 - 🐳 Docker Compose templates for common self‑hosted apps (Nextcloud, Jellyfin, Rustdesk, Wiki.js)  
 - ⚙️ Reverse proxy examples (Traefik, Caddy)  
 - 🛡️ DNS & Ad‑blocking setup (AdGuard Home, Cloudflare DDNS)  
@@ -31,4 +31,4 @@ The detailed documentation is hosted on my Wiki.js site. Dive into the Wiki for 
 - **Usage Tips:** Discover best practices, troubleshooting tips, and performance optimization techniques. 🚀
 - **Change Log:** Stay updated with records of updates, improvements, and significant changes to the homelab setup. 📝
 
-🌐 [Visit the Documentation Site (TODO](https://your-wiki-url.com)
+TODO 🌐 [Visit the Documentation Site](https://your-wiki-url.com)
