@@ -5,11 +5,43 @@
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/backups/</loc>
+         <loc>https://docs.baolabs.io/apps/</loc>
+         <lastmod>2025-10-20</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.baolabs.io/apps/epicgames/</loc>
+         <lastmod>2025-10-20</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.baolabs.io/apps/syncthing/</loc>
+         <lastmod>2025-10-20</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.baolabs.io/apps/tabby/</loc>
+         <lastmod>2025-10-20</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.baolabs.io/cloud/</loc>
+         <lastmod>2025-10-20</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.baolabs.io/cloud/nextcloud/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
          <loc>https://docs.baolabs.io/hardware/</loc>
+         <lastmod>2025-10-20</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.baolabs.io/homeassistant/</loc>
+         <lastmod>2025-10-20</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.baolabs.io/media/</loc>
+         <lastmod>2025-10-20</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.baolabs.io/media/jellyfin/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
@@ -25,6 +57,10 @@
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
+         <loc>https://docs.baolabs.io/proxy/</loc>
+         <lastmod>2025-10-20</lastmod>
+    </url>
+    <url>
          <loc>https://docs.baolabs.io/security/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
@@ -33,31 +69,11 @@
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/services/</loc>
+         <loc>https://docs.baolabs.io/storage/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/services/epicgames/</loc>
-         <lastmod>2025-10-20</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.baolabs.io/services/home-assistant/</loc>
-         <lastmod>2025-10-20</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.baolabs.io/services/jellyfin/</loc>
-         <lastmod>2025-10-20</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.baolabs.io/services/nextcloud/</loc>
-         <lastmod>2025-10-20</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.baolabs.io/services/syncthing/</loc>
-         <lastmod>2025-10-20</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.baolabs.io/services/tabby/</loc>
+         <loc>https://docs.baolabs.io/storage/backups/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
 </urlset>
