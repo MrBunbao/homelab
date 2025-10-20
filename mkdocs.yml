@@ -1,0 +1,24 @@
+site_name: BaoLabs Homelab
+site_description: Public homelab docs, compose examples, and config templates by @mrbunbao
+site_url: https://docs.baolabs.io
+
+repo_url: https://github.com/mrbunbao/homelab
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  features:
+    - content.action.edit     # shows "Edit on GitHub" button
+    - content.code.copy
+    - navigation.instant
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      fallback_to_build_date: true

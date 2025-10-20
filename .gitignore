@@ -16,5 +16,18 @@ media/backups/
 media/iso/
 media/templates/
 
-# keep unredacted local copies only
+# Private local copies
 .private/
+
+# Python / venv
+.venv/
+__pycache__/
+
+# MkDocs
+site/
+
+# Private docs (never commit)
+docs-private/
+
+# Logs
+*.log
