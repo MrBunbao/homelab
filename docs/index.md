@@ -7,29 +7,56 @@ Welcome to my homelab documentation! This site documents my self-hosted infrastr
 
 ## Quick Navigation
 
-### 🚀 [Services](services/index.md)
+### 📱 [Applications](apps/index.md)
 
-Self-hosted applications and containers:
+General apps and utilities:
 
-- [Nextcloud](services/nextcloud.md) - File sync and collaboration
-- [Jellyfin](services/jellyfin.md) - Media streaming with hardware transcoding
-- [Home Assistant](services/home-assistant.md) - Home automation
-- [Syncthing](services/syncthing.md) - File synchronization
-- [Tabby](services/tabby.md) - AI coding assistant
-- [Epic Games](services/epicgames.md) - Free games auto-claimer
+- [Syncthing](apps/syncthing.md) - File synchronization
+- [Tabby](apps/tabby.md) - AI coding assistant
+- [Epic Games](apps/epicgames.md) - Free games auto-claimer
+
+### 🎬 [Media Server](media/index.md)
+
+Streaming and entertainment:
+
+- [Jellyfin](media/jellyfin.md) - Media streaming with hardware transcoding
+- *arr stack (coming soon)
+
+### 🏠 [Home Assistant](homeassistant/index.md)
+
+Smart home automation and device control
+
+### ☁️ [Cloud Services](cloud/index.md)
+
+Self-hosted cloud storage:
+
+- [Nextcloud](cloud/nextcloud.md) - File sync and collaboration
+
+### 🔄 [Proxy & SSL](proxy/index.md)
+
+- Reverse proxy configuration
+- Cloudflare DDNS and DDoS protection
+- SSL/TLS certificate management
+
+### 💾 [Storage & Backups](storage/index.md)
+
+- [Backup strategies](storage/backups.md)
+- NAS configuration (coming soon)
+
+### 📊 [Monitoring](monitoring/index.md)
+
+*Under construction* - Metrics, dashboards, and alerting
 
 ### 🔒 [Security](security/index.md)
 
 - [Fail2ban](security/fail2ban.md) - Brute-force protection
 - Cloudflare WAF
-- Let's Encrypt SSL/TLS
 
 ### 🌐 [Networking](networking/index.md)
 
 - UniFi network management
 - AdGuard Home DNS
-- Cloudflare DDNS
-- Reverse proxy configuration
+- VLANs and subnets
 
 ### 💻 [Hardware](hardware/index.md)
 
@@ -37,14 +64,6 @@ Self-hosted applications and containers:
 - Intel Alder Lake compute
 - Z-Wave/Zigbee adapters
 - Network equipment
-
-### 📊 [Monitoring](monitoring/index.md)
-
-*Under construction* - Metrics, dashboards, and alerting
-
-### 💾 [Backups](backups/index.md)
-
-*Under construction* - Backup strategies and disaster recovery
 
 ---
 

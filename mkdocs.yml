@@ -74,14 +74,26 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Services:
-    - services/index.md
-    - Nextcloud: services/nextcloud.md
-    - Jellyfin: services/jellyfin.md
-    - Home Assistant: services/home-assistant.md
-    - Syncthing: services/syncthing.md
-    - Tabby: services/tabby.md
-    - Epic Games: services/epicgames.md
+  - Applications:
+    - apps/index.md
+    - Syncthing: apps/syncthing.md
+    - Tabby: apps/tabby.md
+    - Epic Games: apps/epicgames.md
+  - Media:
+    - media/index.md
+    - Jellyfin: media/jellyfin.md
+  - Home Assistant:
+    - homeassistant/index.md
+  - Cloud:
+    - cloud/index.md
+    - Nextcloud: cloud/nextcloud.md
+  - Proxy:
+    - proxy/index.md
+  - Storage:
+    - storage/index.md
+    - Backups: storage/backups.md
+  - Monitoring:
+    - monitoring/index.md
   - Security:
     - security/index.md
     - Fail2ban: security/fail2ban.md
@@ -89,7 +101,3 @@ nav:
     - networking/index.md
   - Hardware:
     - hardware/index.md
-  - Monitoring:
-    - monitoring/index.md
-  - Backups:
-    - backups/index.md
