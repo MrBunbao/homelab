@@ -1,6 +1,6 @@
 # Changelog
 
-This document tracks changes, fixes, and updates I’ve made to my homelab environment.  
+This document tracks changes, fixes, and updates I’ve made to my homelab environment.
 Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) style with dates and sections.
 
 ---
@@ -9,10 +9,10 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) style wi
 
 ### Added
 
-- Created Traefik dynamic config (`/etc/traefik/conf.d/nas.yaml`) to expose `nas.baolabs.io` → `10.7.7.6:9443`.
+- Created Traefik dynamic config (`/etc/traefik/conf.d/nas.yaml`) to expose `nas.baolabs.io` → `[INTERNAL_IP]:9443`.
 - Added `serversTransport` with `insecureSkipVerify: true` to allow proxying NAS UI with self-signed certs.
 - Configured AdGuard Home DNS rewrites for:
-  - `nas.baolabs.io` → `10.77.77.204`
+  - `nas.baolabs.io` → `[INTERNAL_IP]`
   - Planned: `docs`, `adguard2`, `linkstack`, `proxmox`, `scrypted`, `portainer`, `nvr`, `traefik`.
 - Created/updated `acme.json` storage file for Let’s Encrypt certs at `/etc/traefik/ssl/acme.json`.
 
@@ -33,11 +33,11 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) style wi
 
 ## How to Update
 
-1. Add new entries under today’s date when making changes.  
-2. Use **Added / Changed / Fixed / Removed** categories.  
-3. Include file paths (configs, systemd units) and domain names affected.  
+1. Add new entries under today’s date when making changes.
+2. Use **Added / Changed / Fixed / Removed** categories.
+3. Include file paths (configs, systemd units) and domain names affected.
 4. Commit to your GitHub `homelab` repo after major changes.
 
 ---
 
-WAN test: XXX.XXX.XXX.XXX
+WAN test: [REDACTED]

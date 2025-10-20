@@ -30,13 +30,13 @@ volumes:
 ## WebDAV Access
 
 ```
-https://cloud.baolabs.io/remote.php/dav/files/admad/
+https://cloud.baolabs.io/remote.php/dav/files/[USERNAME]/
 ```
 
 ### Windows Drive Mapping
 
 ```cmd
-net use Z: https://cloud.baolabs.io/remote.php/dav/files/admad/ /user:admad
+net use Z: https://cloud.baolabs.io/remote.php/dav/files/[USERNAME]/ /user:[USERNAME]
 ```
 
 ## Cloudflare DNS Integration

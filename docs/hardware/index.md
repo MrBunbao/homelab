@@ -10,10 +10,15 @@ Physical hardware and infrastructure specifications.
 
 ## Compute Resources
 
+### Main Server
+
 - **CPU:** Intel Alder Lake-UP3
-- **iGPU:** Intel UHD Graphics [8086:46b3] - used for hardware transcoding
+- **iGPU:** Intel UHD Graphics [8086:46b3]
 - **RAM:** *TBD*
 - **Storage:** *TBD*
+
+!!! success "Hardware Transcoding"
+    The Intel Alder Lake iGPU provides excellent hardware transcoding via QuickSync for Jellyfin. This dramatically reduces CPU usage and power consumption compared to software transcoding, allowing multiple simultaneous 4K streams with HDR tone mapping.
 
 ## Peripherals
 
