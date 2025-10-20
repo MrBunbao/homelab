@@ -5,87 +5,55 @@
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/CONFIGS/EpicGames/</loc>
+         <loc>https://docs.baolabs.io/backups/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/CONFIGS/HomeAssistant/ZWA-2%20Info/</loc>
+         <loc>https://docs.baolabs.io/hardware/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/CONFIGS/Jellyfin/GPU-info/</loc>
+         <loc>https://docs.baolabs.io/monitoring/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/CONFIGS/Nextcloud/Advanced%20tab/</loc>
+         <loc>https://docs.baolabs.io/networking/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/CONFIGS/Nextcloud/Advanced%20tab.sync-conflict-20251018-162505-Y2Y2ZSG/</loc>
+         <loc>https://docs.baolabs.io/security/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/CONFIGS/Nextcloud/Cloudflare%20API%20Key/</loc>
+         <loc>https://docs.baolabs.io/security/fail2ban/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/CONFIGS/Nextcloud/Cloudflare%20API%20Token/</loc>
+         <loc>https://docs.baolabs.io/services/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/CONFIGS/Nextcloud/commands-scripts/</loc>
+         <loc>https://docs.baolabs.io/services/epicgames/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/CONFIGS/Nextcloud/docker-compose.yml%20config/</loc>
+         <loc>https://docs.baolabs.io/services/home-assistant/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/CONFIGS/Nextcloud/docker-compose.yml/</loc>
+         <loc>https://docs.baolabs.io/services/jellyfin/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/CONFIGS/Nextcloud/fail2ban%20pathway.sync-conflict-20251018-044156-Y2Y2ZSG/</loc>
+         <loc>https://docs.baolabs.io/services/nextcloud/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/CONFIGS/Syncthing/Syncthing_info/</loc>
+         <loc>https://docs.baolabs.io/services/syncthing/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://docs.baolabs.io/CONFIGS/Tabby%20Web/Github%20OAuth/</loc>
-         <lastmod>2025-10-20</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.baolabs.io/CONFIGS/Tabby%20Web/Github%20OAuth.sync-conflict-20251018-184314-Y2Y2ZSG/</loc>
-         <lastmod>2025-10-20</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.baolabs.io/CONFIGS/Tabby%20Web/Github%20OAuth.sync-conflict-20251018-184344-Y2Y2ZSG/</loc>
-         <lastmod>2025-10-20</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.baolabs.io/CONFIGS/Tabby%20Web/IP%20Address/</loc>
-         <lastmod>2025-10-20</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.baolabs.io/fail2ban/docker-compose.yml/</loc>
-         <lastmod>2025-10-20</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.baolabs.io/fail2ban/docker-compose.yml.sync-conflict-20251018-044347-Y2Y2ZSG/</loc>
-         <lastmod>2025-10-20</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.baolabs.io/fail2ban/docker-compose.yml.sync-conflict-20251018-044408-Y2Y2ZSG/</loc>
-         <lastmod>2025-10-20</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.baolabs.io/fail2ban/docker-compose.yml.sync-conflict-20251018-044438-Y2Y2ZSG/</loc>
-         <lastmod>2025-10-20</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.baolabs.io/fail2ban/nextcloud%20fail2ban%20pathway/</loc>
+         <loc>https://docs.baolabs.io/services/tabby/</loc>
          <lastmod>2025-10-20</lastmod>
     </url>
 </urlset>
