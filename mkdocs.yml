@@ -8,13 +8,33 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
-    - content.action.edit     # shows "Edit on GitHub" button
+    - content.action.edit
     - content.code.copy
+    - content.code.annotate
     - navigation.instant
     - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
     - search.highlight
     - search.suggest
+    - toc.follow
 
 plugins:
   - search
@@ -22,3 +42,54 @@ plugins:
       minify_html: true
   - git-revision-date-localized:
       fallback_to_build_date: true
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Home: index.md
+  - Services:
+    - services/index.md
+    - Nextcloud: services/nextcloud.md
+    - Jellyfin: services/jellyfin.md
+    - Home Assistant: services/home-assistant.md
+    - Syncthing: services/syncthing.md
+    - Tabby: services/tabby.md
+    - Epic Games: services/epicgames.md
+  - Security:
+    - security/index.md
+    - Fail2ban: security/fail2ban.md
+  - Networking:
+    - networking/index.md
+  - Hardware:
+    - hardware/index.md
+  - Monitoring:
+    - monitoring/index.md
+  - Backups:
+    - backups/index.md
